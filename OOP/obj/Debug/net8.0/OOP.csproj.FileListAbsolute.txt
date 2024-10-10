@@ -1,0 +1,14 @@
+c:\Users\sam\Desktop\Antra-Day06-OOP\OOP\bin\Debug\net8.0\OOP.exe
+c:\Users\sam\Desktop\Antra-Day06-OOP\OOP\bin\Debug\net8.0\OOP.deps.json
+c:\Users\sam\Desktop\Antra-Day06-OOP\OOP\bin\Debug\net8.0\OOP.runtimeconfig.json
+c:\Users\sam\Desktop\Antra-Day06-OOP\OOP\bin\Debug\net8.0\OOP.dll
+c:\Users\sam\Desktop\Antra-Day06-OOP\OOP\bin\Debug\net8.0\OOP.pdb
+c:\Users\sam\Desktop\Antra-Day06-OOP\OOP\obj\Debug\net8.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\sam\Desktop\Antra-Day06-OOP\OOP\obj\Debug\net8.0\OOP.AssemblyInfoInputs.cache
+c:\Users\sam\Desktop\Antra-Day06-OOP\OOP\obj\Debug\net8.0\OOP.AssemblyInfo.cs
+c:\Users\sam\Desktop\Antra-Day06-OOP\OOP\obj\Debug\net8.0\OOP.csproj.CoreCompileInputs.cache
+c:\Users\sam\Desktop\Antra-Day06-OOP\OOP\obj\Debug\net8.0\OOP.dll
+c:\Users\sam\Desktop\Antra-Day06-OOP\OOP\obj\Debug\net8.0\refint\OOP.dll
+c:\Users\sam\Desktop\Antra-Day06-OOP\OOP\obj\Debug\net8.0\OOP.pdb
+c:\Users\sam\Desktop\Antra-Day06-OOP\OOP\obj\Debug\net8.0\OOP.genruntimeconfig.cache
+c:\Users\sam\Desktop\Antra-Day06-OOP\OOP\obj\Debug\net8.0\ref\OOP.dll
